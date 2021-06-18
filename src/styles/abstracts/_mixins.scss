@@ -1,0 +1,5 @@
+@mixin mix-icon($name) {
+    .icon-#{$name} {
+        content: '#{$name}';
+    }
+}
