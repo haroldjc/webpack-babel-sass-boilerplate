@@ -1,0 +1,25 @@
+{
+  "name": "webpack-babel-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Personal webpack, Babel, Sass and Postcss boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroldjc/webpack-babel-sass-boilerplate.git"
+  },
+  "keywords": [
+    "webpack",
+    "babel",
+    "sass",
+    "postcss"
+  ],
+  "author": "Harold Coronado <harold@blakzr.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haroldjc/webpack-babel-sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/haroldjc/webpack-babel-sass-boilerplate#readme"
+}
